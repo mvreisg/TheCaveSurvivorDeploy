@@ -1,5 +1,7 @@
 # TheCaveSurvivorDeploy
 
+## [Click here to play the game](https://mvreisg.github.io/TheCaveSurvivorDeploy/)
+
 ## IMPORTANT! (en)
 
 <p>This game contains copyrighted material, so it is impossible to make it commercial.</p>
