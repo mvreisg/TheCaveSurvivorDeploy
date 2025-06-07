@@ -16,6 +16,7 @@
 ## Controls
 
 <p>A and D - move left and right</p>
+<p>W and S - go up and down the stairs</p>
 <p>Space - jump</p>
 <p>C - use the pickaxe</p>
 <p>Escape - pause the game, just be careful not to press twice and go back to the main menu.</p>
@@ -36,6 +37,7 @@
 ## Controles
 
 <p>A e D - movem para a esquerda e para a direita</p>
+<p>W e S - sobe e desce a escada</p>
 <p>Espaço - pulo</p>
 <p>C - usa a picareta</p>
 <p>Escape - pausa o jogo, apenas tome cuidado para não apertar duas vezes e voltar para o menu principal.</p>
