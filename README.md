@@ -1,43 +1,23 @@
-# TheCaveSurvivorDeploy
+# THE CAVE SURVIVOR DEPLOY REPOSITORY
 
-## [Click here to play the game](https://mvreisg.github.io/TheCaveSurvivorDeploy/)
+Final Project submitted to the Computer Science Technician Course at ETEC Cel. Raphael Brandão, as a partial requirement for obtaining the Computer Science Technician degree.
 
-## IMPORTANT! (en)
+# [CLICK HERE TO TEST THE GAME!](https://mvreisg.github.io/TheCaveSurvivorDeploy/)
 
-<p>This game contains copyrighted material, so it is impossible to make it commercial.</p>
-<p>This game is non-profit.</p>
-<p>This repository is public because GitHub Pages only allows you to deploy a page when the repository is public.</p>
-<p>If I didn't give you credit for something (music, art, etc.) feel free to open an issue.</p>
+# IMPORTANT!
 
-## About
+This game contains copyrighted material, so it is impossible to make it commercial.
+This game is non-profit.
+If I didn't give you credit for something (music, art, etc.) feel free to open an issue.
 
-<p>Repository for deploying a game I developed in 2016.</p>
+# ABOUT
 
-## Controls
+Deploy repository for my final project for my Computer Technician course, a 2D game called The Cave Survivor.
 
-<p>A and D - move left and right</p>
-<p>W and S - go up and down the stairs</p>
-<p>Space - jump</p>
-<p>C - use the pickaxe</p>
-<p>Escape - pause the game, just be careful not to press twice and go back to the main menu.</p>
+# CONTROLS
 
-<hr/>
-
-## IMPORTANTE! (pt-BR)
-
-<p>Este jogo contém materiais protegidos por direitos autorais, então é impossível torná-lo comercial.</p>
-<p>Esse jogo não tem fins lucrativos.</p>
-<p>Esse repositório está público porque o GitHub Pages só permite fazer um deploy de página quando o repositório é público.</p>
-<p>Se eu não te dei os créditos sobre algo (música, arte, etc.) sinta-se livre pra abrir uma issue.</p>
-
-## Sobre
-
-<p>Repositório para deploy de um jogo que desenvolvi em 2016.</p>
-
-## Controles
-
-<p>A e D - movem para a esquerda e para a direita</p>
-<p>W e S - sobe e desce a escada</p>
-<p>Espaço - pulo</p>
-<p>C - usa a picareta</p>
-<p>Escape - pausa o jogo, apenas tome cuidado para não apertar duas vezes e voltar para o menu principal.</p>
+- A and D - move left and right
+- W and S - go up and down the stairs
+- Space - jump
+- C - use the pickaxe
+- Esc - pause the game, just be careful not to press twice and go back to the main menu.
